@@ -27,5 +27,9 @@ export class LikeWidgetComponent implements OnInit {
       this.liked.emit()
   }
 
+  public grita(): boolean {
+    return true
+  }
+
 
 }
