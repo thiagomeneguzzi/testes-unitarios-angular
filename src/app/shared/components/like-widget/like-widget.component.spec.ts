@@ -1,4 +1,4 @@
-import { ComponentFixture, ComponentFixtureAutoDetect, TestBed } from "@angular/core/testing";
+import { ComponentFixture, TestBed } from "@angular/core/testing";
 import { UniqueIdService } from "../../services/unique-id/unique-id.service";
 import { LikeWidgetComponent } from "./like-widget.component";
 import { LikeWidgetModule } from "./like-widget.module";
